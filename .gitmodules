@@ -1,0 +1,45 @@
+[submodule "B1-1"]
+	path = B1-1
+	url = https://github.com/giyeop-cody/B1-1.git
+[submodule "B1-2"]
+	path = B1-2
+	url = https://github.com/giyeop-cody/B1-2.git
+[submodule "B2-1"]
+	path = B2-1
+	url = https://github.com/giyeop-cody/B2-1.git
+[submodule "B2-2"]
+	path = B2-2
+	url = https://github.com/giyeop-cody/B2-2.git
+[submodule "B3-1"]
+	path = B3-1
+	url = https://github.com/giyeop-cody/B3-1.git
+[submodule "B3-2"]
+	path = B3-2
+	url = https://github.com/giyeop-cody/B3-2.git
+[submodule "B4-1"]
+	path = B4-1
+	url = https://github.com/giyeop-cody/giyeop-cody.github.io.git
+[submodule "B4-2"]
+	path = B4-2
+	url = https://github.com/giyeop-cody/B4-2.git
+[submodule "B5-1"]
+	path = B5-1
+	url = https://github.com/giyeop-cody/B5-1.git
+[submodule "B5-2"]
+	path = B5-2
+	url = https://github.com/giyeop-cody/B5-2.git
+[submodule "B5-3"]
+	path = B5-3
+	url = https://github.com/giyeop-cody/B5-3.git
+[submodule "B6-1"]
+	path = B6-1
+	url = https://github.com/giyeop-cody/B6-1.git
+[submodule "B6-2"]
+	path = B6-2
+	url = https://github.com/giyeop-cody/B6-2.git
+[submodule "B7-1"]
+	path = B7-1
+	url = https://github.com/giyeop-cody/B7-1.git
+[submodule "B7-2"]
+	path = B7-2
+	url = https://github.com/giyeop-cody/B7-2.git
