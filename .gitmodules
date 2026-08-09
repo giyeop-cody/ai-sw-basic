@@ -9,7 +9,7 @@
 	url = https://github.com/giyeop-cody/B2-1.git
 [submodule "B2-2"]
 	path = B2-2
-	url = https://github.com/giyeop-cody/B2-2.git
+	url = https://github.com/codyssey-b2-2-team-mission/git-flow-utility-lab.git
 [submodule "B3-1"]
 	path = B3-1
 	url = https://github.com/giyeop-cody/B3-1.git

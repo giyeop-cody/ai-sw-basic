@@ -27,7 +27,7 @@
 | # | 과제명 | 레포 | 난이도 | 필수 | 상태 |
 |---|--------|------|--------|------|------|
 | 1 | 나만의 용돈 기입장 프로그램 만들기 | [B2-1](./B2-1) | ★★☆ | ✅ | PASS |
-| 2 | 친구 3~5명과 함께 프로그램 만드는 법 연습하기 | [B2-2](./B2-2) | ★★☆ | ✅ | PASS |
+| 2 | 친구 3~5명과 함께 프로그램 만드는 법 연습하기 | [B2-2](./B2-2) 🧑‍🤝‍🧑 | ★★☆ | ✅ | PASS |
 
 ### 3️⃣ 자료구조와 알고리즘 (4주)
 | # | 과제명 | 레포 | 난이도 | 필수 | 상태 |
@@ -69,7 +69,7 @@ ai-sw-basic/
 ├── B1-1/   # Linux와 OS - 시스템 자동 점검 (submodule)
 ├── B1-2/   # Linux와 OS - 트러블슈팅 (submodule)
 ├── B2-1/   # Python과 Git 심화 - 용돈 기입장 (submodule)
-├── B2-2/   # Python과 Git 심화 - 협업 연습 (submodule)
+├── B2-2/   # Python과 Git 심화 - 협업 연습 (submodule, 팀 레포)
 ├── B3-1/   # 자료구조와 알고리즘 - 미니 Redis (submodule)
 ├── B3-2/   # 자료구조와 알고리즘 - 미니 Git (submodule)
 ├── B4-1/   # 웹 기초와 프론트엔드 - 자기소개 페이지 (submodule)
@@ -82,6 +82,9 @@ ai-sw-basic/
 ├── B7-1/   # Term Project - AI 챗봇 개발 (submodule)
 └── B7-2/   # Term Project - AI 챗봇 고도화 (submodule)
 ```
+
+
+> **참고**: `B2-2`는 팀 미션으로, 팀 레포지토리([codyssey-b2-2-team-mission/git-flow-utility-lab](https://github.com/codyssey-b2-2-team-mission/git-flow-utility-lab))를 서브모듈로 연결합니다.
 
 각 하위 디렉토리는 독립적인 Git 레포지토리로 서브모듈(submodule)로 연결되어 있습니다.
 
