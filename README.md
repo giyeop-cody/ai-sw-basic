@@ -41,7 +41,7 @@ B 과정의 다음 단계가 A 과정이다. A 트랙의 학습 흐름과 M 과�
 | # | 과제명 | 레포 | 난이도 | 필수 | 상태 | 정의서(taskmap) |
 |---|--------|------|--------|------|------|------|
 | 1 | 나만의 용돈 기입장 프로그램 만들기 | [B2-1](./B2-1) | ★★☆ | ✅ | PASS | [원문](https://github.com/giyeop-cody/codyssey-taskmap/blob/main/B2-1/b2-1-description.md) · [연결](https://github.com/giyeop-cody/codyssey-taskmap/blob/main/B2-1/links.md) 🔒 |
-| 2 | 친구 3~5명과 함께 프로그램 만드는 법 연습하기 | [B2-2](./B2-2) 🧑‍🤝‍🧑 → [git-flow-utility-lab](https://github.com/codyssey-b2-2-team-mission/git-flow-utility-lab) | ★★☆ | ✅ | PASS (팀 레포가 제출물) | [원문](https://github.com/giyeop-cody/codyssey-taskmap/blob/main/B2-2/b2-2-description.md) · [연결](https://github.com/giyeop-cody/codyssey-taskmap/blob/main/B2-2/links.md) 🔒 |
+| 2 | 친구 3~5명과 함께 프로그램 만드는 법 연습하기 | [B2-2](./B2-2) 🧑‍🤝‍🧑 → [git-flow-utility-lab](https://github.com/codyssey-b2-2-team-mission/git-flow-utility-lab) | ★★☆ | ✅ | PASS (팀 레포가 제출물) · 연결 표는 PR 대기 | [원문](https://github.com/giyeop-cody/codyssey-taskmap/blob/main/B2-2/b2-2-description.md) · [연결](https://github.com/giyeop-cody/codyssey-taskmap/blob/main/B2-2/links.md) 🔒 |
 
 ### 3️⃣ 자료구조와 알고리즘 (4주)
 | # | 과제명 | 레포 | 난이도 | 필수 | 상태 | 정의서(taskmap) |
@@ -80,21 +80,21 @@ B 과정의 다음 단계가 A 과정이다. A 트랙의 학습 흐름과 M 과�
 
 | 과제 | 레포 pin | 근거 |
 |:--:|---|---|
-| B1-1 | `main@a1a9f76` (2026-08-12) · [giyeop-cody/B1-1](https://github.com/giyeop-cody/B1-1) | ai-sw-basic 상태표 PASS · evidence/ 7종 커밋 |
-| B1-2 | `main@e338967` (2026-08-17) · [giyeop-cody/B1-2](https://github.com/giyeop-cody/B1-2) | PROGRESS.md: FINAL RUNTIME/EVIDENCE VALIDATION ALL PASS · 구현 PR #10 병합 |
-| B2-1 | `master@68e47b2` (2026-08-12) · [giyeop-cody/B2-1](https://github.com/giyeop-cody/B2-1) | ai-sw-basic 상태표 PASS |
-| B2-2 | `main@55b8077` (2026-06-01) · [codyssey-b2-2-team-mission/git-flow-utility-lab](https://github.com/codyssey-b2-2-team-mission/git-flow-utility-lab) | ai-sw-basic 서브모듈이 팀 레포를 가리킴 · SUBMISSION.md 있음 |
-| B3-1 | `master@a76be8e` (2026-08-12) · [giyeop-cody/B3-1](https://github.com/giyeop-cody/B3-1) | ai-sw-basic 상태표 PASS · Mini Redis |
-| B3-2 | `main@7074e0a` (2026-08-12) · [giyeop-cody/B3-2](https://github.com/giyeop-cody/B3-2) | ai-sw-basic 상태표 PASS · Mini Git |
-| B4-1 | `main@17d1ec4` (2026-08-12) · [giyeop-cody/giyeop-cody.github.io](https://github.com/giyeop-cody/giyeop-cody.github.io) | ai-sw-basic 상태표 진행중 · Pages 레포이면서 제출물 · screenshots/ 3종 |
-| B4-2 | `main@3cb41bb` (2026-08-18) · [giyeop-cody/B4-2](https://github.com/giyeop-cody/B4-2) | ai-sw-basic 상태표 평가전 · 커밋 153개로 B트랙 최다 |
-| B5-1 | `main@1bcee91` (2026-09-15) · [giyeop-cody/B5-1](https://github.com/giyeop-cody/B5-1) | PR #10·#11 병합(2026-09-14~15) · SQL 실행 증거를 스크립트 주석으로 내장 |
-| B5-2 | `main@8d9210f` (2026-08-12) · [giyeop-cody/B5-2](https://github.com/giyeop-cody/B5-2) | ai-sw-basic 상태표 평가전 |
-| B5-3 | `master@5c42ec3` (2026-08-12) · [giyeop-cody/B5-3](https://github.com/giyeop-cody/B5-3) | ai-sw-basic 상태표 진행중 · GITFLOW/IMPLEMENTATION_REPORT 문서 커밋 |
-| B6-1 | `main@4ce94e4` (2026-09-25) · [giyeop-cody/B6-1](https://github.com/giyeop-cody/B6-1) | 2026-09-24~25 커밋 5건: IAM 수명주기·리소스 감사·항목별 과금 증거 · 후속 Issue #1 open |
-| B6-2 | `main@39551a8` (2026-08-13) · [giyeop-cody/B6-2](https://github.com/giyeop-cody/B6-2) | ai-sw-basic 상태표 평가전 |
-| B7-1 | `main@e56ed8b` (2026-09-15) · [codyssey-term-mission-B7-1/ai-chatbot-service](https://github.com/codyssey-term-mission-B7-1/ai-chatbot-service) | Term Project 팀 조직 레포 · Railway 배포 설정(railway.json/Procfile) · CONTRIBUTING.md |
-| B7-2 | `main@af0a72b` (2026-08-12) · [giyeop-cody/B7-2](https://github.com/giyeop-cody/B7-2) | ai-sw-basic 상태표 대기 · 커밋 5개 |
+| B1-1 | `main@acddd0d` (2026-09-27) · [giyeop-cody/B1-1](https://github.com/giyeop-cody/B1-1) | ai-sw-basic 상태표 PASS · evidence/ 7종 커밋 |
+| B1-2 | `main@7de53d7` (2026-09-27) · [giyeop-cody/B1-2](https://github.com/giyeop-cody/B1-2) | PROGRESS.md: FINAL RUNTIME/EVIDENCE VALIDATION ALL PASS · 구현 PR #10 병합 |
+| B2-1 | `master@1b5482a` (2026-09-27) · [giyeop-cody/B2-1](https://github.com/giyeop-cody/B2-1) | ai-sw-basic 상태표 PASS |
+| B2-2 | `main@55b8077` (2026-06-01) · [codyssey-b2-2-team-mission/git-flow-utility-lab](https://github.com/codyssey-b2-2-team-mission/git-flow-utility-lab) | ai-sw-basic 서브모듈이 팀 레포를 가리킴 · SUBMISSION.md 있음 · 이 레포는 main 직접 push 가 규칙으로 막혀 있어 연결 표를 PR #31 로 올림(머지 대기) |
+| B3-1 | `master@8ef2269` (2026-09-27) · [giyeop-cody/B3-1](https://github.com/giyeop-cody/B3-1) | ai-sw-basic 상태표 PASS · Mini Redis |
+| B3-2 | `main@80d478e` (2026-09-27) · [giyeop-cody/B3-2](https://github.com/giyeop-cody/B3-2) | ai-sw-basic 상태표 PASS · Mini Git |
+| B4-1 | `main@c5faba6` (2026-09-27) · [giyeop-cody/giyeop-cody.github.io](https://github.com/giyeop-cody/giyeop-cody.github.io) | ai-sw-basic 상태표 진행중 · Pages 레포이면서 제출물 · screenshots/ 3종 |
+| B4-2 | `main@7b7a1c2` (2026-09-27) · [giyeop-cody/B4-2](https://github.com/giyeop-cody/B4-2) | ai-sw-basic 상태표 평가전 · 커밋 153개로 B트랙 최다 |
+| B5-1 | `main@587e29c` (2026-09-27) · [giyeop-cody/B5-1](https://github.com/giyeop-cody/B5-1) | PR #10·#11 병합(2026-09-14~15) · SQL 실행 증거를 스크립트 주석으로 내장 |
+| B5-2 | `main@16302ca` (2026-09-27) · [giyeop-cody/B5-2](https://github.com/giyeop-cody/B5-2) | ai-sw-basic 상태표 평가전 |
+| B5-3 | `master@03ce902` (2026-09-27) · [giyeop-cody/B5-3](https://github.com/giyeop-cody/B5-3) | ai-sw-basic 상태표 진행중 · GITFLOW/IMPLEMENTATION_REPORT 문서 커밋 |
+| B6-1 | `main@2e402a0` (2026-09-27) · [giyeop-cody/B6-1](https://github.com/giyeop-cody/B6-1) | 2026-09-24~25 커밋 5건: IAM 수명주기·리소스 감사·항목별 과금 증거 · 후속 Issue #1 open |
+| B6-2 | `main@ec020e5` (2026-09-27) · [giyeop-cody/B6-2](https://github.com/giyeop-cody/B6-2) | ai-sw-basic 상태표 평가전 |
+| B7-1 | `main@552a707` (2026-09-27) · [codyssey-term-mission-B7-1/ai-chatbot-service](https://github.com/codyssey-term-mission-B7-1/ai-chatbot-service) | Term Project 팀 조직 레포 · Railway 배포 설정(railway.json/Procfile) · CONTRIBUTING.md |
+| B7-2 | `main@07b87ab` (2026-09-27) · [giyeop-cody/B7-2](https://github.com/giyeop-cody/B7-2) | ai-sw-basic 상태표 대기 · 커밋 5개 |
 
 ---
 
